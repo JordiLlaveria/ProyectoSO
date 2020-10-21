@@ -106,3 +106,5 @@ E:\UPC\Tercer Curso\1r. Quatrimestre\SO\Semana 4\LaAplicacionAlInicio\cliente_in
 E:\UPC\Tercer Curso\1r. Quatrimestre\SO\Semana 4\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 E:\UPC\Tercer Curso\1r. Quatrimestre\SO\Semana 4\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\UPC\Tercer Curso\1r. Quatrimestre\SO\Semana 4\LaAplicacionAlInicio\cliente_inicial\WindowsFormsApplication1\obj\Debug\clienteForm.csproj.GenerateResource.Cache
+C:\Proyecto SO\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Proyecto SO\cliente_inicial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -32,13 +32,13 @@
             this.nombre = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.Altura = new System.Windows.Forms.Label();
+            this.Altura1 = new System.Windows.Forms.TextBox();
             this.Alto = new System.Windows.Forms.RadioButton();
             this.Desconectar = new System.Windows.Forms.Button();
             this.Longitud = new System.Windows.Forms.RadioButton();
             this.Bonito = new System.Windows.Forms.RadioButton();
             this.Conectar = new System.Windows.Forms.Button();
-            this.Altura1 = new System.Windows.Forms.TextBox();
-            this.Altura = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,9 +49,9 @@
             this.label2.Location = new System.Drawing.Point(31, 31);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(110, 31);
+            this.label2.Size = new System.Drawing.Size(133, 31);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Nombre";
+            this.label2.Text = "NOMBRE";
             // 
             // nombre
             // 
@@ -92,6 +92,22 @@
             this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Peticion";
+            // 
+            // Altura
+            // 
+            this.Altura.AutoSize = true;
+            this.Altura.Location = new System.Drawing.Point(16, 116);
+            this.Altura.Name = "Altura";
+            this.Altura.Size = new System.Drawing.Size(45, 17);
+            this.Altura.TabIndex = 12;
+            this.Altura.Text = "Altura";
+            // 
+            // Altura1
+            // 
+            this.Altura1.Location = new System.Drawing.Point(19, 140);
+            this.Altura1.Name = "Altura1";
+            this.Altura1.Size = new System.Drawing.Size(100, 22);
+            this.Altura1.TabIndex = 11;
             // 
             // Alto
             // 
@@ -147,22 +163,6 @@
             this.Conectar.Text = "Conectar";
             this.Conectar.UseVisualStyleBackColor = true;
             this.Conectar.Click += new System.EventHandler(this.Conectar_Click);
-            // 
-            // Altura1
-            // 
-            this.Altura1.Location = new System.Drawing.Point(19, 140);
-            this.Altura1.Name = "Altura1";
-            this.Altura1.Size = new System.Drawing.Size(100, 22);
-            this.Altura1.TabIndex = 11;
-            // 
-            // Altura
-            // 
-            this.Altura.AutoSize = true;
-            this.Altura.Location = new System.Drawing.Point(16, 116);
-            this.Altura.Name = "Altura";
-            this.Altura.Size = new System.Drawing.Size(45, 17);
-            this.Altura.TabIndex = 12;
-            this.Altura.Text = "Altura";
             // 
             // Form1
             // 
